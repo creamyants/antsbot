@@ -1,0 +1,11 @@
+{
+  "name": "ants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "ants",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1629288463.d6e6244"
+  }
+}
